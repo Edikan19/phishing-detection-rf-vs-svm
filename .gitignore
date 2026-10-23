@@ -1,0 +1,19 @@
+# Dataset (download via ucimlrepo or UCI; do not commit)
+PhiUSIIL_Phishing_URL_Dataset.csv
+*.csv
+
+# Environments
+phishing-env/
+.venv/
+venv/
+env/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

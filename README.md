@@ -42,7 +42,7 @@ Both models score near ceiling; the dominant predictors are page-content feature
 
 ```bash
 git clone https://github.com/Edikan19/<repo-name>.git
-cd <repo-name>
+cd phishing-detection-rf-vs-svm
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 jupyter notebook Project.ipynb
